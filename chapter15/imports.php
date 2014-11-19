@@ -1,0 +1,10 @@
+<?php
+require_once('radio.php');
+require_once('electric_window.php');
+require_once('command.php');
+require_once('volume_up_command.php');
+require_once('volume_down_command.php');
+require_once('window_up_command.php');
+require_once('window_down_command.php');
+require_once('speech_recogniser.php');
+?>

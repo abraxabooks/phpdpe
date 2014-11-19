@@ -1,0 +1,10 @@
+<?php
+require_once('clock_setup_state.php');
+require_once('year_setup_state.php');
+require_once('month_setup_state.php');
+require_once('day_setup_state.php');
+require_once('hour_setup_state.php');
+require_once('minute_setup_state.php');
+require_once('finished_setup_state.php');
+require_once('clock_setup.php');
+?>

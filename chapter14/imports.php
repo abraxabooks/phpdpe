@@ -1,0 +1,9 @@
+<?php
+require_once('email_handler.php');
+require_once('abstract_email_handler.php');
+require_once('spam_email_handler.php');
+require_once('sales_email_handler.php');
+require_once('service_email_handler.php');
+require_once('manager_email_handler.php');
+require_once('general_enquiries_email_handler.php');
+?>

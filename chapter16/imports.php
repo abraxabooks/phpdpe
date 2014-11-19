@@ -1,0 +1,10 @@
+<?php
+require_once('city.php');
+require_once('expression.php');
+require_once('city_expression.php');
+require_once('most_northerly_expression.php');
+require_once('most_southerly_expression.php');
+require_once('most_westerly_expression.php');
+require_once('most_easterly_expression.php');
+require_once('directional_evaluator.php');
+?>
